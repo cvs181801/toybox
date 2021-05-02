@@ -4,7 +4,7 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-p {
+div {
     background-color: bisque;
     color: rgb(2, 73, 2);
 }
