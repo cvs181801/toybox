@@ -3,3 +3,7 @@ body {
     color: dark green;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+p {
+    color: rgb(2, 73, 2);
+}
